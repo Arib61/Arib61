@@ -1,39 +1,74 @@
+<div align="center">
+
 # 👨‍💻 Aymane ARIB
 
-**Computer Engineering Student | AI Engineer | Data Scientist**
+### Computer Engineering Student | AI Engineer | Data Scientist
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=600&lines=AI+Engineer+%26+Data+Scientist;Machine+Learning+%26+Deep+Learning+Expert;NLP+%26+Computer+Vision+Specialist;LLM+Integration+%26+Fine-tuning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Data+Scientist;Machine+Learning+%26+Deep+Learning+Expert;NLP+%26+Computer+Vision+Specialist;LLM+Integration+%26+Fine-tuning)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-arib-234039254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBqNo%2F8iSQfCaYCM9YtDLOg%3D%3D)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aribaymane61@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Arib61)
-![Profile Views](https://komarev.com/ghpvc/?username=Arib61&color=6C63FF&style=flat-square)
+<p align="center">
+  <a href="https://linkedin.com/in/arib-aymane"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:aribaymane61@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://github.com/Arib61"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Arib61&color=6C63FF&style=flat-square"/>
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🎯 Professional Summary
+
+```yaml
+role: AI Engineer & Data Scientist
+specialization: [Machine Learning, NLP, Computer Vision, LLMs]
+expertise: [Deep Learning, Generative AI, Data Engineering, MLOps]
+mission: "Transforming data into intelligent, scalable AI solutions"
+location: Rabat, Morocco
+```
+
+<br>
 
 ## 💻 Technical Expertise
 
+<div align="center">
+
 ### 🤖 Artificial Intelligence & Machine Learning
 
-#### Deep Learning Frameworks
+<table>
+<tr>
+<td align="center" width="33%">
+
+**Deep Learning Frameworks**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-#### ML & Data Science Libraries
+</td>
+<td align="center" width="33%">
+
+**ML & Data Science**
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-#### Computer Vision
+</td>
+<td align="center" width="33%">
+
+**Computer Vision**
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![RNN](https://img.shields.io/badge/RNN-4B8BBE?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
----
+</td>
+</tr>
+</table>
 
 ### 📊 Data Science & Analytics
 
@@ -43,8 +78,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
-
 ### 🗣️ Natural Language Processing
 
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
@@ -53,17 +86,6 @@
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-**Specialized Skills:**
-- Large Language Model Integration & Fine-tuning (LoRA, QLoRA)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering & Optimization
-- Text Classification & Sentiment Analysis
-- Named Entity Recognition (NER)
-- Chatbot Development & Conversational AI
-- Question Answering Systems
-
----
 
 ### 💻 Programming Languages
 
@@ -76,8 +98,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
 ### ☁️ MLOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -86,16 +106,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-
-**DevOps Practices:**
-- CI/CD Pipeline Development
-- Model Deployment & Serving
-- Container Orchestration
-- Version Control & Collaboration
-- Infrastructure as Code
-- Monitoring & Logging
-
----
 
 ### 🗄️ Databases & Big Data
 
@@ -106,9 +116,7 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
----
-
-### 🌐 Web Development & APIs
+### 🌐 Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -119,18 +127,182 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
----
+</div>
 
-## 📫 Let's Connect
+<br>
 
-I'm always open to discussing AI/ML projects, research collaborations, and innovative opportunities.
+## 🎯 Core Competencies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-arib-234039254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBqNo%2F8iSQfCaYCM9YtDLOg%3D%3D)
-[![Email](https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aribaymane61@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arib61)
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**💡 "The best way to predict the future is to create it with AI"**
+### 🤖 AI & Machine Learning
+- Deep Learning Architecture Design
+- Neural Network Optimization
+- Transfer Learning & Fine-tuning
+- Model Deployment & Serving
+- AutoML & Hyperparameter Tuning
+- Reinforcement Learning
+- Generative AI (GANs, VAEs)
 
-**⭐ Building the future with AI & Data Science**
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data Science
+- Statistical Analysis & Modeling
+- Feature Engineering
+- Time Series Analysis
+- A/B Testing & Experimentation
+- Big Data Processing
+- ETL Pipeline Development
+- Data Visualization & Storytelling
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗣️ NLP & LLMs
+- Large Language Model Integration
+- Prompt Engineering
+- Text Classification & Sentiment Analysis
+- Named Entity Recognition (NER)
+- Question Answering Systems
+- Chatbot Development
+- Retrieval-Augmented Generation (RAG)
+- Fine-tuning LLMs (LoRA, QLoRA)
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+- Object Detection & Tracking
+- Image Classification & Segmentation
+- Facial Recognition Systems
+- OCR & Document Processing
+- Video Analysis
+- CNN & RNN Architectures
+- Real-time Image Processing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ MLOps & Engineering
+- CI/CD for ML Pipelines
+- Model Versioning & Monitoring
+- Containerization (Docker, K8s)
+- Cloud Deployment (AWS, GCP, Azure)
+- API Development (REST, GraphQL)
+- Microservices Architecture
+- Performance Optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Soft Skills
+- Project Management & Agile
+- Technical Communication
+- Problem-Solving & Critical Thinking
+- Team Collaboration
+- Leadership & Mentoring
+- Analytical Mindset
+- Adaptability & Fast Learning
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arib61&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arib61&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arib61&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arib61&custom_title=Contribution%20Graph&bg_color=0D1117&color=6C63FF&line=6C63FF&point=C9D1D9&area_color=6C63FF&area=true&hide_border=true"/>
+</div>
+
+<br>
+
+## 🚀 Current Focus
+
+```python
+current_focus = {
+    "learning": [
+        "Advanced LLM Fine-tuning Techniques",
+        "MLOps Best Practices & Scalability",
+        "Real-time AI Systems",
+        "Edge AI & Model Optimization"
+    ],
+    "exploring": [
+        "Multimodal AI Models",
+        "Retrieval-Augmented Generation (RAG)",
+        "AI Safety & Alignment",
+        "Federated Learning"
+    ],
+    "working_with": [
+        "Large Language Models (LLMs)",
+        "Computer Vision Pipelines",
+        "Production ML Systems",
+        "Cloud-native AI Solutions"
+    ]
+}
+```
+
+<br>
+
+## 🌐 Languages
+
+<div align="center">
+
+| Language | Proficiency | Level |
+|:---:|:---:|:---:|
+| 🇲🇦 Arabic | Native | ⬛⬛⬛⬛⬛ |
+| 🇫🇷 French | Fluent | ⬛⬛⬛⬛⬛ |
+| 🇬🇧 English | Professional | ⬛⬛⬛⬛⬜ |
+
+</div>
+
+<br>
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+### Open to discussing AI/ML projects, research collaborations, and innovative opportunities
+
+<p>
+  <a href="https://linkedin.com/in/arib-aymane">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aribaymane61@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Arib61">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+### 💡 *"The best way to predict the future is to create it with AI"*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+**⭐ From [Arib61](https://github.com/Arib61) | Building the future with AI & Data Science**
+
+</div>
