@@ -17,7 +17,6 @@
 
 </div>
 
-## 🎯 Professional Summary
 ## 💻 Technical Expertise
 
 <div align="center">
