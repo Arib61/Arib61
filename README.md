@@ -1,16 +1,210 @@
-## Hi there 👋
+# 👨‍💻 Aymane ARIB
 
-<!--
-**Arib61/Arib61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student | AI Engineer | Data Scientist**
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=600&lines=AI+Engineer+%26+Data+Scientist;Machine+Learning+%26+Deep+Learning+Expert;NLP+%26+Computer+Vision+Specialist;LLM+Integration+%26+Fine-tuning)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arib-aymane)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aribaymane61@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Arib61)
+![Profile Views](https://komarev.com/ghpvc/?username=Arib61&color=6C63FF&style=flat-square)
+
+---
+
+## 💻 Technical Expertise
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+#### Deep Learning Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+#### ML & Data Science Libraries
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+#### Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RNN](https://img.shields.io/badge/RNN-4B8BBE?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+---
+
+### 📊 Data Science & Analytics
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+---
+
+### 🗣️ Natural Language Processing
+
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+**Specialized Skills:**
+- Large Language Model Integration & Fine-tuning (LoRA, QLoRA)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering & Optimization
+- Text Classification & Sentiment Analysis
+- Named Entity Recognition (NER)
+- Chatbot Development & Conversational AI
+- Question Answering Systems
+
+---
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### ☁️ MLOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
+
+**DevOps Practices:**
+- CI/CD Pipeline Development
+- Model Deployment & Serving
+- Container Orchestration
+- Version Control & Collaboration
+- Infrastructure as Code
+- Monitoring & Logging
+
+---
+
+### 🗄️ Databases & Big Data
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+### 🌐 Web Development & APIs
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+---
+
+## 🎯 Core Competencies
+
+### 🤖 AI & Machine Learning
+- Deep Learning Architecture Design & Optimization
+- Neural Network Training & Fine-tuning
+- Transfer Learning & Domain Adaptation
+- Model Deployment & Production Serving
+- AutoML & Hyperparameter Optimization
+- Ensemble Methods & Model Stacking
+- Generative AI (GANs, VAEs, Diffusion Models)
+
+### 📊 Data Science & Engineering
+- Statistical Analysis & Hypothesis Testing
+- Feature Engineering & Selection
+- Time Series Analysis & Forecasting
+- A/B Testing & Experimentation
+- Big Data Processing & ETL Pipelines
+- Data Visualization & Storytelling
+- Predictive Modeling & Analytics
+
+### 👁️ Computer Vision
+- Object Detection & Recognition (YOLO, R-CNN, SSD)
+- Image Classification & Segmentation
+- Facial Recognition & Biometric Systems
+- OCR & Document Processing
+- Video Analysis & Tracking
+- Real-time Image Processing
+- 3D Vision & Depth Estimation
+
+### 💼 Professional Skills
+- Project Management & Agile Methodologies
+- Technical Communication & Documentation
+- Problem-Solving & Critical Thinking
+- Team Collaboration & Leadership
+- Analytical Mindset & Data-Driven Decision Making
+- Adaptability & Continuous Learning
+
+---
+
+## 🌐 Languages
+
+- **🇲🇦 Arabic:** Native
+- **🇫🇷 French:** Fluent
+- **🇬🇧 English:** Professional Proficiency
+
+---
+
+## 🚀 Current Focus
+
+```python
+current_focus = {
+    "learning": [
+        "Advanced LLM Fine-tuning Techniques (LoRA, QLoRA, PEFT)",
+        "MLOps Best Practices & Production Systems",
+        "Real-time AI & Edge Computing",
+        "Multimodal AI & Vision-Language Models"
+    ],
+    "exploring": [
+        "Retrieval-Augmented Generation (RAG) Systems",
+        "AI Safety & Responsible AI Development",
+        "Federated Learning & Privacy-Preserving ML",
+        "Large-Scale Model Training & Optimization"
+    ],
+    "working_with": [
+        "Large Language Models (LLMs)",
+        "Production Computer Vision Pipelines",
+        "Cloud-Native AI Solutions",
+        "End-to-End ML Systems"
+    ]
+}
+```
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing AI/ML projects, research collaborations, and innovative opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arib-aymane)
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aribaymane61@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arib61)
+
+---
+
+**💡 "The best way to predict the future is to create it with AI"**
+
+**⭐ Building the future with AI & Data Science**
