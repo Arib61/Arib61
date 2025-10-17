@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&vCenter=true&width=600&lines=AI+Engineer+%26+Data+Scientist;Machine+Learning+%26+Deep+Learning+Expert;NLP+%26+Computer+Vision+Specialist;LLM+Integration+%26+Fine-tuning)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arib-aymane)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-arib-234039254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBqNo%2F8iSQfCaYCM9YtDLOg%3D%3D)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:aribaymane61@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Arib61)
 ![Profile Views](https://komarev.com/ghpvc/?username=Arib61&color=6C63FF&style=flat-square)
@@ -121,85 +121,11 @@
 
 ---
 
-## 🎯 Core Competencies
-
-### 🤖 AI & Machine Learning
-- Deep Learning Architecture Design & Optimization
-- Neural Network Training & Fine-tuning
-- Transfer Learning & Domain Adaptation
-- Model Deployment & Production Serving
-- AutoML & Hyperparameter Optimization
-- Ensemble Methods & Model Stacking
-- Generative AI (GANs, VAEs, Diffusion Models)
-
-### 📊 Data Science & Engineering
-- Statistical Analysis & Hypothesis Testing
-- Feature Engineering & Selection
-- Time Series Analysis & Forecasting
-- A/B Testing & Experimentation
-- Big Data Processing & ETL Pipelines
-- Data Visualization & Storytelling
-- Predictive Modeling & Analytics
-
-### 👁️ Computer Vision
-- Object Detection & Recognition (YOLO, R-CNN, SSD)
-- Image Classification & Segmentation
-- Facial Recognition & Biometric Systems
-- OCR & Document Processing
-- Video Analysis & Tracking
-- Real-time Image Processing
-- 3D Vision & Depth Estimation
-
-### 💼 Professional Skills
-- Project Management & Agile Methodologies
-- Technical Communication & Documentation
-- Problem-Solving & Critical Thinking
-- Team Collaboration & Leadership
-- Analytical Mindset & Data-Driven Decision Making
-- Adaptability & Continuous Learning
-
----
-
-## 🌐 Languages
-
-- **🇲🇦 Arabic:** Native
-- **🇫🇷 French:** Fluent
-- **🇬🇧 English:** Professional Proficiency
-
----
-
-## 🚀 Current Focus
-
-```python
-current_focus = {
-    "learning": [
-        "Advanced LLM Fine-tuning Techniques (LoRA, QLoRA, PEFT)",
-        "MLOps Best Practices & Production Systems",
-        "Real-time AI & Edge Computing",
-        "Multimodal AI & Vision-Language Models"
-    ],
-    "exploring": [
-        "Retrieval-Augmented Generation (RAG) Systems",
-        "AI Safety & Responsible AI Development",
-        "Federated Learning & Privacy-Preserving ML",
-        "Large-Scale Model Training & Optimization"
-    ],
-    "working_with": [
-        "Large Language Models (LLMs)",
-        "Production Computer Vision Pipelines",
-        "Cloud-Native AI Solutions",
-        "End-to-End ML Systems"
-    ]
-}
-```
-
----
-
 ## 📫 Let's Connect
 
 I'm always open to discussing AI/ML projects, research collaborations, and innovative opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arib-aymane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-arib-234039254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBqNo%2F8iSQfCaYCM9YtDLOg%3D%3D)
 [![Email](https://img.shields.io/badge/Email-Let's%20talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aribaymane61@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arib61)
 
